@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GradeCalculcator",
+    "\\GradeCalculcator\\GradeCalculcator"
   ],
+  "SelectedNode": "\\GradeCalculcator\\GradeCalculcator\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }
