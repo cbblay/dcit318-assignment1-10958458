@@ -10,9 +10,11 @@ namespace TicketPrice
     {
         static void Main()
         {
+            //Get user input for age
             Console.Write("Enter your age: ");
             int age = int.Parse(Console.ReadLine());
-           
+
+            //Condition for ticket discount price
             if( age <= 12 || age >= 65)
             {
                 Console.WriteLine("The price of your ticket is GHC7");
