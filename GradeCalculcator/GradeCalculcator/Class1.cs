@@ -20,21 +20,21 @@ namespace GradeCalculcator
                 if(score < 0 || score > 100)
                 {
                     Console.WriteLine("Error! Score must be between 0 & 100");
-                }else if(score >= 80)
+                else if (score >= 90)
                 {
                     Console.WriteLine("Grade:A");
-                }else if (score >= 70)
+                }
+                else if (score >= 80)
                 {
                     Console.WriteLine("Grade:B");
-                }else if(score >= 60)
+                }
+                else if (score >= 70)
                 {
                     Console.WriteLine("Grade:C");
-                }else if (score >= 50)
+                }
+                else if (score >= 60)
                 {
                     Console.WriteLine("Grade:D");
-                }else if(score >= 40)
-                {
-                    Console.WriteLine("Grade:E");
                 }
                 else
                 {
