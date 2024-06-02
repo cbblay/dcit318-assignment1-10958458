@@ -11,6 +11,7 @@ namespace TriangleBot
     {
         static void Main(string[]args)
         {
+            //Get user input for triangle sides
             Console.Write("Enter the value for the first side of the triangle: ");
             int sideOne = int.Parse(Console.ReadLine());
 
@@ -19,7 +20,8 @@ namespace TriangleBot
 
             Console.Write("Enter the value for the third side of the triangle: ");
             int sideThree = int.Parse(Console.ReadLine());
-
+            
+            //Conditions for the type of triangle
             if(sideOne == sideTwo && sideTwo == sideThree)
             {
                 Console.Write("It is an equilateral triangle!");
