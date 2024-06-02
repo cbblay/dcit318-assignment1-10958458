@@ -1,0 +1,6 @@
+C:\Users\cyrus\source\repos\TicketPrice\bin\Debug\TicketPrice.pdb
+C:\Users\cyrus\source\repos\TicketPrice\obj\Debug\TicketPrice.csproj.AssemblyReference.cache
+C:\Users\cyrus\source\repos\TicketPrice\obj\Debug\TicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\source\repos\TicketPrice\obj\Debug\TicketPrice.pdb
+C:\Users\cyrus\source\repos\TicketPrice\bin\Debug\TicketPrice.exe
+C:\Users\cyrus\source\repos\TicketPrice\obj\Debug\TicketPrice.exe
