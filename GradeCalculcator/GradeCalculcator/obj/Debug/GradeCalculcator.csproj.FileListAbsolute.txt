@@ -1,0 +1,12 @@
+C:\Users\cyrus\source\repos\GradeCalculcator\GradeCalculcator\bin\Debug\GradeCalculcator.pdb
+C:\Users\cyrus\source\repos\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.csproj.AssemblyReference.cache
+C:\Users\cyrus\source\repos\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\source\repos\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.pdb
+C:\Users\cyrus\source\repos\GradeCalculcator\GradeCalculcator\bin\Debug\GradeCalculcator.exe
+C:\Users\cyrus\source\repos\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.exe
+C:\Users\cyrus\source\repos\dcit318-assignment1-10958458\GradeCalculcator\GradeCalculcator\bin\Debug\GradeCalculcator.exe
+C:\Users\cyrus\source\repos\dcit318-assignment1-10958458\GradeCalculcator\GradeCalculcator\bin\Debug\GradeCalculcator.pdb
+C:\Users\cyrus\source\repos\dcit318-assignment1-10958458\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.csproj.AssemblyReference.cache
+C:\Users\cyrus\source\repos\dcit318-assignment1-10958458\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\source\repos\dcit318-assignment1-10958458\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.exe
+C:\Users\cyrus\source\repos\dcit318-assignment1-10958458\GradeCalculcator\GradeCalculcator\obj\Debug\GradeCalculcator.pdb
